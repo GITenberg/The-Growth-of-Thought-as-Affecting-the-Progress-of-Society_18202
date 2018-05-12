@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '7873'
     url: http://www.gutenberg.org/2009/agents/7873
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18202#The-Growth-of-Thought-as-Affecting-the-Progress-of-Society
 gutenberg_issued: '2006-04-18'
 gutenberg_type: Text
 identifiers:
